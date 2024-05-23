@@ -6,3 +6,7 @@ this is ecom webapp for admin and customer can create add updat make payment of 
 
 https://educitywebapp.azurewebsites.net/
 this is for college campus details web app
+
+
+investment calculator:
+https://investmentcalcuator.azurewebsites.net/
